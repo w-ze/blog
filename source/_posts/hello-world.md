@@ -36,3 +36,7 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
+More info: ![Deployment](https://pub.wangxuefeng.com.cn/asset/img/classroom.jpg)
+
+<img src="https://pub.wangxuefeng.com.cn/asset/img/sunshine.jpg" width=50%>
